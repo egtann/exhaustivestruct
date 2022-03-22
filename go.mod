@@ -1,4 +1,4 @@
-module github.com/mbilski/exhaustivestruct
+module github.com/egtann/exhaustivestruct
 
 go 1.18
 
